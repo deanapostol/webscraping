@@ -1,0 +1,242 @@
+Run New Search Code<!DOCTYPE html>
+
+<html lang="en"><head>
+<title>Delfax Solutions Inc</title>
+<meta charset="utf-8"/>
+<meta content="Developing software for Livestock Producers" name="description"/>
+<meta content="Delfax, Software, Farms, Pigs, Inventory, Trade Tracker, Trade Viewer, Market Tracker, Farm Tracker, Lot Tracker" name="keywords"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="favicon.ico" rel="icon" sizes="16x16" type="image/ico"/>
+<link href="https://fonts.gstatic.com" rel="preconnect"/>
+<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@500&amp;display=swap" rel="stylesheet"/>
+<script crossorigin="anonymous" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+<link href="assets/css/styles.css" rel="stylesheet" type="text/css"/>
+</head>
+<body data-offset="60" data-spy="scroll" data-target="#myNavbar" id="home">
+<nav class="navbar fixed-top navbar-expand-xl navbar-dark">
+<a class="navbar-brand ml-4" href="#">Delfax Solutions</a>
+<button aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler mr-sm-3" data-target="#myNavbar" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
+<div class="collapse navbar-collapse" id="myNavbar">
+<ul class="navbar-nav ml-auto mr-xl-4" role="tablist">
+<li class="nav-item"><a class="nav-link" href="#about">About Us</a></li>
+<li class="dropdown nav-item">
+<a class="nav-link dropdown-toggle" href="#products">Products</a>
+<div class="dropdown-content">
+<a class="dropdown-item" href="tradetracker.html">Trade Tracker</a>
+<a class="dropdown-item" href="lottracker.html">Lot Tracker</a>
+<a class="dropdown-item" href="markettracker.html">Market Tracker</a>
+<a class="dropdown-item" href="farmtracker.html">Farm Tracker</a>
+<a class="dropdown-item" href="tradeviewer.html">Trade Viewer</a>
+</div>
+</li>
+<li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+<li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+</ul>
+</div>
+</nav>
+<div class="pageHeader text-center">
+<h1>Delfax Solutions</h1>
+<p>Developing software for Livestock Producers</p>
+</div>
+<!-- About Container -->
+<section id="about">
+<div class="container-fluid about">
+<div class="row">
+<div class="col-xl-8">
+<h2>Why Delfax</h2><br/>
+<h3>Experience</h3>
+<p>Delfax has been privileged to work with some of the best run companies in the industry. We have been involved with both large and small companies, corporate and family owned, public and private. We’ve provided our own products as solutions and we’ve also built many custom solutions for clients. We’ve learned a lot over the years and we’re glad to put that experience to work for you.</p>
+<h3>Industry</h3>
+<p>Delfax specializes in Agribusiness Livestock. Whether it’s at sow farms, nurseries or finishers, feeding, trucking, marketing, scheduling or hedging, we’ve dealt with it. We market our own applications that are being used in the pork, cattle and poultry industries. We have written custom applications for trucking, feeding, meat processing, custom financials systems, EDI interfaces and more. We understand this industry and we like it.</p>
+<h3>Service</h3>
+<p>When you call Delfax you don’t get a number. Whether your management team needs to discuss financials statements or you simply need help loading the application on a new machine we are here to support you. We value your business – we will work with you on understanding your issues and develop solutions that work.</p>
+<br/><a class="btn btn-lg btn-secondary" href="#contact">Contact Us</a>
+</div>
+<div class="col-sm-4 d-none d-xl-block">
+<div class="bodyImages">
+<img src="assets/images/maytown.jpg"/>
+<img src="assets/images/barn inside.jpg"/>
+<img src="assets/images/barn up.jpg"/>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid bg-grey about">
+<div class="row">
+<div class="col-xl-8">
+<h2>Our Approach</h2><br/>
+<h3>Access Needs</h3>
+<p>Everyone is in the same business but not everyone does things the same way. Together we sit down, discuss your issues, business processes, and desired information and develop a comprehensive solution to provide for a more effective and efficient organization.</p>
+<h3>Implementation</h3>
+<p>We have experience in providing solutions and can implement solutions with the least disruption to your business. Whether an all in one implementation or piece meal switch over, we have done it before.</p>
+<h3>Data Conversion</h3>
+<p>Your data is a valuable asset. If you’re changing systems your data should move with you. We load your data from your old systems as part of our installation process so there is no reason to maintain your “old system” for historical reports.</p>
+<h3>Future Growth</h3>
+<p>Your business is growing – Technology is changing. You need to worry about your business while we worry about your systems. We are constantly upgrading and evolving our systems to the newest technology. We are always upgrading, rewriting and redesigning. Technology is changing are you keeping up?</p>
+<h3>Support</h3>
+<p>We understand you are not looking for a system; you are looking for a solution. When we install, it works – Day 1. Reports balance, data posts, and users go home on time. After we install we listen, adjust, revise and make sure that everything moves and grows with you. Our contracts are written as ongoing relationships. We support the solutions we provide.</p>
+</div>
+<div class="col-sm-4 d-none d-xl-block">
+<div class="bodyImages">
+<img src="assets/images/Pigs standing _edit.jpg"/>
+<img src="assets/images/cattle2.jpg"/>
+<img src="assets/images/cattle1.jpg"/>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Products Container -->
+<div class="container-fluid text-center" id="products">
+<h2>Products</h2>
+<br/>
+<div class="row fadeinanim mx-5">
+<div class="col-xl-4 center-block">
+<a class="productLink" href="tradetracker.html">
+<div class="card"><img alt="" class="mx-auto" height="300" src="assets/images/market graph.jpg" width="400"/><h4 class="mt-4 mb-0">Trade Tracker</h4></div>
+</a>
+<p>When audit time comes, can you provide the right documentation for your trading? Are you correctly recording the results on your financials? Delfax can help accomplish this.</p>
+</div>
+<div class="col-xl-4">
+<a class="productLink" href="lottracker.html">
+<div class="card">
+<img alt="" class="mx-auto" height="300" src="assets/images/barn inside.jpg" width="400"/>
+<h4 class="mt-4 mb-0">Lot Tracker</h4>
+</div>
+</a>
+<p>LotTracker is Delfax’s complete pork production software.</p>
+</div>
+<div class="col-xl-4">
+<a class="productLink" href="markettracker.html">
+<div class="card">
+<img alt="" class="mx-auto" height="300" src="assets/images/maytown.jpg" width="400"/>
+<h4 class="mt-4 mb-0">Market Tracker</h4>
+</div>
+</a>
+<p>The complete Cull Buyer-Management System enables buyers to quickly and accurately view and manage their day-to-day activities.</p>
+</div>
+</div>
+<br/>
+<div class="row fadeinanim mx-5">
+<div class="col-xl-4" style="margin: 0 10%;">
+<a class="productLink" href="farmtracker.html">
+<div class="card">
+<img alt="" class="mx-auto" height="300" src="assets/images/barn up.jpg" width="400"/>
+<h4 class="mt-4 mb-0">Farm Tracker</h4>
+</div>
+</a>
+<p>Farm Tracker is designed to collect data regarding on farm tasks, measurements and activities, and record them for use at the central office.</p>
+</div>
+<div class="col-xl-4">
+<a class="productLink" href="tradeviewer.html">
+<div class="card">
+<img alt="" class="mx-auto" height="300" src="assets/images/report.jpg" width="400"/>
+<h4 class="mt-4 mb-0">Trade Viewer</h4>
+</div>
+</a>
+<p>Trade Viewer has been designed to provide secure, clear and accurate trade reporting that is easily assessable.</p>
+</div>
+</div>
+</div>
+<!-- Services Container -->
+<section class="container-fluid text-center bg-grey" id="services">
+<h2>Services</h2>
+<h4>Services We Offer</h4>
+<div class="row text-center fadeinanim">
+<div class="col-sm-4">
+<span class="icon logo-small">
+<svg class="bi bi-code-square" fill="currentColor" height="1em" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M14 1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z" fill-rule="evenodd"></path><path d="M6.854 4.646a.5.5 0 0 1 0 .708L4.207 8l2.647 2.646a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 0 1 .708 0zm2.292 0a.5.5 0 0 0 0 .708L11.793 8l-2.647 2.646a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708 0z" fill-rule="evenodd"></path></svg>
+</span>
+<p><strong>Custom Solutions</strong></p>
+<p class="text-left">Combining tech expertise and agri-business knowledge, Delfax develops diverse custom solutions for small, medium-sized and enterprise-grade businesses. Delfax builds solutions from scratch, ensuring seamless integration with existing environments and systems. We extend this offering to startup products and large-scale business process automation alike. With tried‑and‑true knowledge of tech platforms and components, we create custom solutions that address our customers’ unique demands.</p>
+</div>
+<div class="col-sm-4">
+<span class="icon logo-small">
+<svg class="bi bi-graph-up" fill="currentColor" height="1em" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h1v15h15v1H0V0zm10 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4.9l-3.613 4.417a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61L13.445 4H10.5a.5.5 0 0 1-.5-.5z" fill-rule="evenodd"></path></svg>
+</span>
+<p><strong>Support</strong></p>
+<p class="text-left">While modern applications can be simple to use, behind the scenes there can be a complex array of microservices, APIs and other backend services, and a lot of things can go wrong. We support the applications we build.  As your needs change and the systems need to adapt we will be there with you. When we develop software solutions for a client we form a relationship and supporting the software is part of that relationship.</p>
+</div>
+<div class="col-sm-4">
+<span class="icon logo-small">
+<svg class="bi bi-lock-fill" fill="currentColor" height="1em" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M2.5 9a2 2 0 0 1 2-2h7a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-7a2 2 0 0 1-2-2V9z"></path><path d="M4.5 4a3.5 3.5 0 1 1 7 0v3h-1V4a2.5 2.5 0 0 0-5 0v3h-1V4z" fill-rule="evenodd"></path></svg>
+</span>
+<p><strong>Experience</strong></p>
+<p class="text-left">The way a business exploits their industry knowledge can be central to its ability to develop applications successfully. This doesn't just apply to huge multinational companies. Knowledge management can benefit everyone from a small family farm to a large corporation.Delfax has over 25 years’ experience in the livestock production and processing industry. When we develop applications for our clients we use that experience and our deep understanding of the market to develop software that is a true solution for our clients.</p>
+</div>
+</div>
+</section>
+<!-- Contact Container -->
+<section class="container-fluid" id="contact">
+<h2 class="text-center">Contact</h2>
+<div class="row">
+<div class="ml-auto col-lg-4">
+<form action="mail.asp" class="needs-validation" method="POST">
+<div class="form-row">
+<div class="form-group col-md-6">
+<label for="firstName">First Name</label>
+<input class="form-control" id="firstName" name="fname" placeholder="First Name" required="" type="text"/>
+</div>
+<div class="form-group col-md-6">
+<label for="lastName">Last Name</label>
+<input class="form-control" id="lastName" name="lname" placeholder="Last Name" required="" type="text"/>
+</div>
+</div>
+<div class="form-group">
+<label for="inputEmail">Email</label>
+<input class="form-control" id="inputEmail" name="email" placeholder="email@domain.com" required="" type="email"/>
+</div>
+<div class="form-group">
+<label for="selectSubject">Subject</label>
+<select aria-label="Default select" class="custom-select" id="selectSubject" name="subject">
+<option selected="">General</option>
+<option>Trade Tracker</option>
+<option>Lot Tracker</option>
+<option>Market Tracker</option>
+<option>Farm Tracker</option>
+<option>Trade Viewer</option>
+</select>
+</div>
+<div class="form-group">
+<label for="inputMessage">Message</label>
+<textarea class="form-control" id="inputMessage" name="message" placeholder="Hello" required="" type="text"></textarea>
+</div>
+<div class="form-group">
+<label class="invalid-feedback">There Was an Error Please Try Again...</label>
+<label class="valid-feedback">Email Was Sent.</label>
+</div>
+<button class="btn btn-secondary w-100" type="submit">Send</button>
+</form>
+</div>
+<div class="col-6 contactCol">
+<br/>
+<h4>Phone and Fax Numbers</h4>
+<!-- Phone Number -->
+<p>
+<span class="icon">
+<svg class="bi bi-telephone-fill" fill="currentColor" height="1em" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M2.267.98a1.636 1.636 0 0 1 2.448.152l1.681 2.162c.309.396.418.913.296 1.4l-.513 2.053a.636.636 0 0 0 .167.604L8.65 9.654a.636.636 0 0 0 .604.167l2.052-.513a1.636 1.636 0 0 1 1.401.296l2.162 1.681c.777.604.849 1.753.153 2.448l-.97.97c-.693.693-1.73.998-2.697.658a17.47 17.47 0 0 1-6.571-4.144A17.47 17.47 0 0 1 .639 4.646c-.34-.967-.035-2.004.658-2.698l.97-.969z" fill-rule="evenodd"></path></svg>
+</span>
+<span>847-504-0103</span>
+</p>
+<!-- Fax Number -->
+<p>
+<span class="icon">
+<svg class="bi bi-printer-fill" fill="currentColor" height="1em" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M5 1a2 2 0 0 0-2 2v1h10V3a2 2 0 0 0-2-2H5z"></path><path d="M11 9H5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" fill-rule="evenodd"></path><path d="M0 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2h-1v-2a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v2H2a2 2 0 0 1-2-2V7zm2.5 1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z" fill-rule="evenodd"></path></svg>
+</span>
+<span>847-504-0171</span>
+</p>
+</div>
+</div>
+</section>
+<footer class="bg-grey text-center">
+<a href="#home" title="To Top">
+<span class="icon">
+<svg class="bi bi-arrow-up-circle-fill" fill="currentColor" height="1em" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z" fill-rule="evenodd"></path></svg>
+</span>
+</a>
+</footer>
+<script src="assets/js/custom.js"></script>
+</body></html>
